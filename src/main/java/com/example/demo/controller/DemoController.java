@@ -8,7 +8,7 @@ public class DemoController {
 
     @GetMapping("/")
     public String index() {
-        return "Sping Boot!";
+        return "Sping Boogt!";
     }
     
 }
